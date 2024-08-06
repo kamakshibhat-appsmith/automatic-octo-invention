@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66b260363785820f62cb63ef_f6f1e1fd-508d-4655-9781-f41efc601ace",
+  "id": "Page1_retete",
+  "unpublishedCollection": {
+    "name": "retete",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
